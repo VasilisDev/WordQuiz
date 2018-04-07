@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordQuiz</string>
+    <string name="start">Play</string>
+    <string name="actionabout">About WordQuiz</string>
+    <string name="myName">Developer:Vasilis Tsakiris</string>
+    <string name="myname1">cs151082</string>
+    <string name="resultLabel">Ποσοστό Επιτυχίας:</string>
+    <string name="percent">%1$2.2f%%</string>
+
+
+</resources>
