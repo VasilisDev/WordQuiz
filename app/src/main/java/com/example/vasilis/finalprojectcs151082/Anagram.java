@@ -3,7 +3,7 @@ package com.example.vasilis.finalprojectcs151082;
 import java.util.Random;
 
 
-public class Anagram extends secondActivity {
+public class Anagram  {
 
     public static final Random RANDOM = new Random();
     public static final String[] WORDS = {"ACCOUNT", "ADDITION","APPLE",
